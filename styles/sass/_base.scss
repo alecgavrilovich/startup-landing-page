@@ -1,3 +1,4 @@
+// add your custom styles here
 html, body {
     height: 100%;
 }
@@ -36,7 +37,7 @@ img {
 
 #stage {
     margin-top: 50px;
-    background: url('img/stage.jpg') center center no-repeat;
+    background: url('../../img/stage.jpg') center center no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
     color: white;
@@ -126,3 +127,5 @@ img {
         align-items: center;
     }
 }
+
+// to learn more about SASS, visit sass-lang.com
