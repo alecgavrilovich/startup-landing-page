@@ -1,2 +1,2 @@
 # startup-landing-page
-Startup landing page #0.
+Startup landing page. Code along project form Brad Huessy web course.
